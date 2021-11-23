@@ -1,0 +1,36 @@
+.jeden
+{
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    background-color: RGBA(0, 0, 0, 1);
+}
+
+.dwa
+{
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    background-color: RGBA(0, 0, 0, 0.8);
+}
+
+.trzy
+{
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    background-color: RGBA(0, 0, 0, 0.6);
+}
+
+.cztery
+{
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    background-color: RGBA(0, 0, 0, 0.2);
+}
+
+body
+{
+    background-color: #f5f5dd;
+}
